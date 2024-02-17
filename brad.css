@@ -1,0 +1,44 @@
+.main{
+    background-image: url("img/hleb-so-svekloi_sitewebru-1000x600.jpg");
+    height: 150px;
+    width: 150px;
+    
+}
+.main1{
+    background-image: url("img/images.jfif");
+    height: 150px;
+    width: 150px;
+}
+.main2{
+    background-image: url("img/Без\ названия.jfif");
+    height: 150px;
+    width: 150px;
+}
+.main3{
+    background-image: url("img/Без\ названия\ \(1\).jfif");
+    height: 150px;
+    width: 150px;
+}
+
+.main-part{
+    background-image: url(/img/images.jfif);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color: white;
+    height: 300px;
+    
+}
+header{
+    display: flex;
+    justify-content: space-around;
+    color: aliceblue;
+
+}
+header p{
+    margin-top: 115px;
+    margin-left: 25px;
+}
+ol{
+    display: flex;
+    justify-content: space-around;
+}
